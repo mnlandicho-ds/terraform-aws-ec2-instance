@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "terraform-aws-ec2-instance"]
+	url = https://github.com/mnlandicho-ds
+	fetch = +refs/heads/*:refs/remotes/terraform-aws-ec2-instance/*
